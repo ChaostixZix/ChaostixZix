@@ -5,7 +5,7 @@
 - **Occupation:** Aspiring Tech-Enthusiastic Doctor 👨‍⚕️💻
 - **Clinical Rotation:** March 2024 🗓️
 - **Interests:** Exploring the Intersection of Technology and Medicine 🚀🩺
-- **Vision:** Revolutionizing Healthcare through Innovative Technology Solutions 🌟
+- **Vision:** I really want to combine technology with Medicine. I think we can do better for a lot more people with those two things combined
 
 ### Tech Stack 💻
 
