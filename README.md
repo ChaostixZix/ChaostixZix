@@ -1,8 +1,8 @@
 ## Profile 📇
 
-- **Name:** Bintang Putra | Medical Student 🧑
+- **Name:** Bintang Putra 🧑
 - **Email:** 📧 bintangputra5556@gmail.com
-- **Occupation:** Aspiring Tech-Enthusiastic Doctor 👨‍⚕️💻
+- **Occupation:** Aspiring Tech-Enthusiastic _Medical Student_ 👨‍⚕️💻
 - **Clinical Rotation:** March 2024 🗓️
 - **Interests:** Exploring the Intersection of Technology and Medicine 🚀🩺
 - **Vision:** I really want to combine technology with Medicine. I think we can do better for a lot more people with those two things combined
