@@ -1,6 +1,6 @@
 ## Profile 📇
 
-- **Name:** Bintang Putra 🧑
+- **Name:** Bintang Putra | Medical Student 🧑
 - **Email:** 📧 bintangputra5556@gmail.com
 - **Occupation:** Aspiring Tech-Enthusiastic Doctor 👨‍⚕️💻
 - **Clinical Rotation:** March 2024 🗓️
